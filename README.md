@@ -1,3 +1,7 @@
+# Diney-clone
+
+![Disney-clone](https://i.ibb.co/qkkDZ8p/Screenshot-43.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
