@@ -1,4 +1,4 @@
-# Diney-clone
+# Disney-clone
 
 ![Disney-clone](https://i.ibb.co/qkkDZ8p/Screenshot-43.png)
 
